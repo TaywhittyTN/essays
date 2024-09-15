@@ -1,4 +1,5 @@
-.ve-header "Water and Work in Winslow Homer" wc:Winslow_Homer_-_The_Gulf_Stream_-_Metropolitan_Museum_of_Art.jpg
+#Grant Wood
+.ve-header "American Gothic" wc:Grant_Wood_-_American_Gothic_-_Google_Art_Project.jpg
 
 ==Winslow Homer=={Q344838} is known for his dramatic paintings of sailors and fisherman at sea. This essay explores how Homer depicts the labor of working on the water through a range of examples. 
 
