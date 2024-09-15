@@ -1,7 +1,9 @@
-#Grant Wood
-.ve-header "American Gothic" wc:Grant_Wood_-_American_Gothic_-_Google_Art_Project.jpg
+#Grant DeVolson Wood
+.ve-header "American Gothic" Background=LightBlue
 
-==Winslow Homer=={Q344838} is known for his dramatic paintings of sailors and fisherman at sea. This essay explores how Homer depicts the labor of working on the water through a range of examples. 
+.ve-media wc:Grant_Wood_-_American_Gothic_-_Google_Art_Project.jpg
+
+American Gothic is one of the most recognized paintings of the 20th century, and its meaning has been the subject of various interpretations and parodies. Grant Wood, the artist behind the work, drew inspiration from his background, surroundings, history, architecture, and imagination. This essay examines how Wood’s portrayal of the rural midwestern family in American Gothic is ultimately seen as a symbol of resilience and strength for Americans post Great Depression.
 
 #The Herring Net
 .ve-media https://api.artic.edu/api/v1/artworks/25865/manifest.json
