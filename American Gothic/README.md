@@ -7,4 +7,4 @@ American Gothic is one of the most recognized paintings of the 20th century, and
 
 #Architectural Inspirtation
 
-.ve-media wc: Dibble_house_-_2007-06-04-Gothic_House.jpg
+.ve-media [https://npgallery.nps.gov/NRHP/GetAsset/8a609b2c-0555-4d17-8ec3-338ff3fceaf6]
