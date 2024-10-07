@@ -19,5 +19,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "30371ccb"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "influenced by european painting styles from his travels, there are elements of pointilism and impressionism stylistically ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://iiif-image.juncture-digital.org/iiif/2/a5e0e6573e1d9ffe1e77d299a20318d2567eed942a0300b486700ae72d0180a6",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:299.1918640136719,1207.9163818359375,474.8565368652344,549.0528564453125"
+      },
+      "id": "a5e0e657"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "25308184"
   }
 ]
