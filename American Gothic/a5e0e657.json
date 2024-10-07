@@ -40,5 +40,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "25308184"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Symmetry in line work is exstensive in composition.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://iiif-image.juncture-digital.org/iiif/2/a5e0e6573e1d9ffe1e77d299a20318d2567eed942a0300b486700ae72d0180a6",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1745.4256591796875,2223.2236328125,1120.1300048828125,911.4365234375"
+      },
+      "id": "a5e0e657"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "53765977"
   }
 ]
