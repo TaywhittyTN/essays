@@ -7,7 +7,7 @@ American Gothic is one of the most recognized paintings of the 20th century, and
 
 
 #Artists Expirience and Regionalism
-.ve-media <a title="Grant Wood
+<a title="Grant Wood
 , Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Grant_Wood.jpg"><img width="256" alt="Grant Wood" src="https://upload.wikimedia.org/wikipedia/commons/0/02/Grant_Wood.jpg?20120512135217"></a>
 
 #Architectural Inspirtation
