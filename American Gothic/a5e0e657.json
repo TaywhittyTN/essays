@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Woods was inspired by the gothic arcitechture of this Iowa home called the Dibble house.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://iiif-image.juncture-digital.org/iiif/2/a5e0e6573e1d9ffe1e77d299a20318d2567eed942a0300b486700ae72d0180a6",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1881.0577392578125,896.291748046875,652.9276123046875,792.4168701171875"
+      },
+      "id": "a5e0e657"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "30371ccb"
+  }
+]
