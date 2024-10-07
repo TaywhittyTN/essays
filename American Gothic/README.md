@@ -7,7 +7,8 @@ American Gothic is one of the most recognized paintings of the 20th century, and
 
 #Architectural Inspirtation
 
-.ve-media:http://www.shared-canvas.org/ns/context.json
+.ve-media:Smithsonian:https://ids.si.edu/ids/manifest/SAAM-1991.122.2R-V_1",
+  
   
 .ve-media
 #A Piece of Americana History
