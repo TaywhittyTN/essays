@@ -82,5 +82,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "a9706a6d"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Subjects are dressed in a manner that is not of the time, it harkens back to earlier America and farm life. ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://iiif-image.juncture-digital.org/iiif/2/a5e0e6573e1d9ffe1e77d299a20318d2567eed942a0300b486700ae72d0180a6",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1200.267333984375,3300.76318359375,270.4495849609375,255.54296875"
+      },
+      "id": "a5e0e657"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "1ee34da4"
   }
 ]
