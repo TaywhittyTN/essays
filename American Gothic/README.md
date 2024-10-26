@@ -7,11 +7,16 @@
 
 American Gothic is one of the most recognized paintings of the 20th century, and its meaning has been the subject of various interpretations and parodies. Grant Wood, the artist behind the work, drew inspiration from his background, surroundings, history, architecture, and imagination. This essay examines how Wood’s portrayal of the rural midwestern family in American Gothic is ultimately seen as a symbol of resilience and strength for Americans post Great Depression and in turn symbolises the American spirit and Americana.
   
-<a title="Grant Wood
+<a  title="Grant Wood
 , Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Grant_Wood.jpg"><img width="256" alt="Grant Wood" src="https://upload.wikimedia.org/wikipedia/commons/0/02/Grant_Wood.jpg?20120512135217"></a>
+
+
 Grant DeVolson Wood was born in Anamosa, Iowa, in 1892, during a period marked by significant social and economic challenges, including the Great Depression (1929-1939). Growing up in a rural environment greatly influenced his artistic perspective. He studied metalwork in high school, which sparked his interest in craftsmanship and design. In 1913, he enrolled at the School of the Art Institute of Chicago, where he developed his skills in painting, drawing and silversmithing. He then became a teacher in Cedar Rapids. 
 
-After World War I, Wood served in the army, where he utilized his artistic talents to design camouflage patterns. This experience not only honed his skills but also broadened his understanding of the interplay between art and practicality. From 1920 - 1928, he traveled extensively in Europe, including work in Germany  on a comission piece for the American Revolution for the Veterans Memorial Building in Cedar Rapids. While there he developed an interest in the works of Jans Van Eyke and Hans Memling, this paired with regionalism influence, had a profound impact on his style.
+Twords the end of World War I, Wood served in the army, where he utilized his artistic talents to design camouflage patterns. This experience not only honed his skills but also broadened his understanding of the interplay between art and practicality. From 1920 - 1928, he traveled extensively in Europe, including work in Germany  on a comission piece for the American Revolution for the Veterans Memorial Building in Cedar Rapids. While there he developed an interest in the works of Jans Van Eyke and Hans Memling, this paired with regionalism influence, had a profound impact on his style.
+
+<a title="Jan van Eyck
+, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:The_Arnolfini_portrait_(1434).jpg"><img width="null" alt="The Arnolfini portrait (1434)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/The_Arnolfini_portrait_%281434%29.jpg/nullpx-The_Arnolfini_portrait_%281434%29.jpg?20220513223808"></a>
 
 Wood is best known for his pivotal role in the Regionalism movement, which emerged in the 1930s as a reaction against the European influence on American art. This movement emphasized the depiction of everyday life in rural and small-town America, showcasing the unique characteristics of the Midwest. His most famous painting, "American Gothic," created in 1930, exemplifies this approach and has become an iconic representation of American identity.
 
