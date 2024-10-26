@@ -82,5 +82,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "1ee34da4"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Woods used friends and family as models to portray this rural pair. There has been much discussion as to wther this pair is a father and daughter or a couple.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://iiif-image.juncture-digital.org/iiif/2/a5e0e6573e1d9ffe1e77d299a20318d2567eed942a0300b486700ae72d0180a6",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2912.405029296875,1060.5032958984375,1277.715087890625,1350.1185302734375"
+      },
+      "id": "a5e0e657"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f4c4fdfc"
   }
 ]
