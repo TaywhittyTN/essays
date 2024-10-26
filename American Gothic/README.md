@@ -13,7 +13,7 @@ American Gothic is one of the most recognized paintings of the 20th century, and
 , Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Grant_Wood.jpg"><img width="256" alt="Grant Wood" src="https://upload.wikimedia.org/wikipedia/commons/0/02/Grant_Wood.jpg?20120512135217"></a>
 
 
-** *Self-Portrait Grant Woods, 1932-1941***
+***Self-Portrait Grant Woods, 1932-1941***
 
 Grant DeVolson Wood was born in Anamosa, Iowa, in 1892, during a period marked by significant social and economic challenges, including the Great Depression (1929-1939). Growing up in a rural environment greatly influenced his artistic perspective. He studied metalwork in high school, which sparked his interest in craftsmanship and design. In 1913, he enrolled at the School of the Art Institute of Chicago, where he developed his skills in painting, drawing and silversmithing. He then became a teacher in Cedar Rapids. 
 
@@ -22,6 +22,7 @@ Twords the end of World War I, Wood served in the army, where he utilized his ar
 <a title="Jan van Eyck
 , Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:The_Arnolfini_portrait_(1434).jpg"><img width="512" alt="The Arnolfini portrait (1434)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/The_Arnolfini_portrait_%281434%29.jpg/512px-The_Arnolfini_portrait_%281434%29.jpg?20220513223808"></a>
 
+***The Arnolfini Portrait, Jan Van Eyck, 1434***
 Wood is best known for his pivotal role in the Regionalism movement, which emerged in the 1930s as a reaction against the European influence on American art. This movement emphasized the depiction of everyday life in rural and small-town America, showcasing the unique characteristics of the Midwest. His most famous painting, "American Gothic," created in 1930, exemplifies this approach and has become an iconic representation of American identity.
 
 #Artists Expirience and Regionalism
