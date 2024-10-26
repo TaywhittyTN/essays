@@ -8,11 +8,8 @@
 American Gothic is one of the most recognized paintings of the 20th century, and its meaning has been the subject of various interpretations and parodies. Grant Wood, the artist behind the work, drew inspiration from his background, surroundings, history, architecture, and imagination. This essay examines how Wood’s portrayal of the rural midwestern family in American Gothic is ultimately seen as a symbol of resilience and strength for Americans post Great Depression and in turn symbolises the American spirit and Americana.
 
 #Artists Expirience and Regionalism
-
 <a  title="Grant Wood
 , Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Grant_Wood.jpg"><img width="256" alt="Grant Wood" src="https://upload.wikimedia.org/wikipedia/commons/0/02/Grant_Wood.jpg?20120512135217"></a>
-
-
 ***Self-Portrait Grant Woods, 1932-1941***
 
 Grant DeVolson Wood was born in Anamosa, Iowa, in 1892, during a period marked by significant social and economic challenges, including the Great Depression (1929-1939). Growing up in a rural environment greatly influenced his artistic perspective. He studied metalwork in high school, which sparked his interest in craftsmanship and design. In 1913, he enrolled at the School of the Art Institute of Chicago, where he developed his skills in painting, drawing and silversmithing. He then became a teacher in Cedar Rapids. 
