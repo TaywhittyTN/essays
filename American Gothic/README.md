@@ -27,11 +27,16 @@ Wood is best known for his pivotal role in the Regionalism movement, which emerg
 
 ***"The Arnolfini Portrait, Jan Van Eyck, 1434 & Young Man at Prayer with St. William of Maleval, Hans Memling, 1403"***
 
+When examining the artists who influenced Grant Wood, Jan van Eyck and Hans Memling stand out as clear sources of inspiration, particularly in their artistic styles, choice of subjects, facial expressions, and composition. These elements are evident in Wood's American Gothic. In The Arnolfini Portrait (1434) by Jan van Eyck, the painting of Giovanni di Nicolao Arnolfini and his wife is set in their bedroom, where rich colors, intricate textiles, and light reflections heighten the sense of realism. The couple’s somber expressions are a key feature of the work, and similar expressions can be seen on the faces of the farmer and woman in American Gothic.
+
+In Hans Memling's Young Man at Prayer with St. William of Maleval (1403), two figures are depicted on a path: one is a guard holding a pole with a black flag, and the other is kneeling in prayer with an open Bible. What’s significant in comparing this imagery to American Gothic is the correlation between the pole and banner in Memling’s work and the pitchfork held by the farmer in Wood’s painting. Both elements serve as strong, symbolic props that anchor the figures and contribute to the composition’s sense of solemnity and purpose.
+
 #Architectural Inspirtation
 
 <a title="Jehjoyce at en.wikipedia, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:2007-06-04-Gothic_House.jpg"><img width="512" alt="2007-06-04-Gothic House" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/2007-06-04-Gothic_House.jpg/512px-2007-06-04-Gothic_House.jpg?20080519190542"></a>
 
-#American Gothic
+
+While on a drive in Eldon, Iowa Wood discovered a home that peeked his interest. This white house, had straight lines with gothis style architeture in the windows. The style of ths home was called "Carpeter Gothic" - this North American architectural style refers to the application of Gothic Revival architectural built by house-carpenters. Wood asked himself what type of people would live in this home and started to[ scetch](https://iiif.si.edu/mirador/?manifest=https%3A%2F%2Fids.si.edu%2Fids%2Fmanifest%2FSAAM-1991.122.2R-V_1) the image. In his own statement  he aimed to depict "types of people I have known all my life" with authenticity.
 
 #Parody is the best form of flattery
 <a title="RCA Records, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:American_Gothic_parody_(1972).png"><img width="512" alt="American Gothic parody (1972)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/American_Gothic_parody_%281972%29.png/512px-American_Gothic_parody_%281972%29.png?20130706190903"></a>
