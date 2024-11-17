@@ -25,7 +25,7 @@
     "body": [
       {
         "type": "TextualBody",
-        "value": "influenced by european painting styles from his travels, there are elements of pointilism and impressionism stylistically ",
+        "value": "Woods used friends and family as models to portray this rural pair. There has been much discussion as to wther this pair is a father and daughter or a couple.",
         "purpose": "commenting"
       }
     ],
@@ -34,12 +34,12 @@
       "selector": {
         "type": "FragmentSelector",
         "conformsTo": "http://www.w3.org/TR/media-frags/",
-        "value": "xywh=pixel:299.1918640136719,1207.9163818359375,474.8565368652344,549.0528564453125"
+        "value": "xywh=pixel:2912.405029296875,1060.5032958984375,1277.715087890625,1350.1185302734375"
       },
       "id": "a5e0e657"
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "25308184"
+    "id": "f4c4fdfc"
   },
   {
     "type": "Annotation",
@@ -88,7 +88,7 @@
     "body": [
       {
         "type": "TextualBody",
-        "value": "Woods used friends and family as models to portray this rural pair. There has been much discussion as to wther this pair is a father and daughter or a couple.",
+        "value": "influenced by european painting styles from his travels, there are elements of pointilism and impressionism stylistically ",
         "purpose": "commenting"
       }
     ],
@@ -97,11 +97,11 @@
       "selector": {
         "type": "FragmentSelector",
         "conformsTo": "http://www.w3.org/TR/media-frags/",
-        "value": "xywh=pixel:2912.405029296875,1060.5032958984375,1277.715087890625,1350.1185302734375"
+        "value": "xywh=pixel:299.1918640136719,1207.9163818359375,474.8565368652344,549.0528564453125"
       },
       "id": "a5e0e657"
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "f4c4fdfc"
+    "id": "25308184"
   }
 ]
