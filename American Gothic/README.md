@@ -49,8 +49,7 @@ He said that the stylization of the subjects are modeled after "Tintypes from my
 <a title="marco antonio torres, CC BY-SA 2.0 &lt;https://creativecommons.org/licenses/by-sa/2.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Chicano_Gothic.jpg"><img width="256" alt="Chicano Gothic" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Chicano_Gothic.jpg?20200807022513"></a>
 
 *American Gothic* has been a cultural icon for decades, appearing frequently in TV, film, and media. Its widespread popularity has led to countless parodies, where the painting's distinctive style is exaggerated for comedic effect. Some have argued that Grant Wood intended the work as a satire. James Dennis, for instance, referred to Wood as a "Cosmopolitan Satirist"[^8] in his analysis of the artist's work. However, Wood himself acknowledged the satire but, leaned into the Realism with his interpretation of the work. When discussing the painting’s subjects, he said, "There is satire in it, but only as there is satire in any realistic statement. These are types of people I have known all my life. I tried to characterize them truthfully — to make them more like themselves than they were in actual life". Emphasizing his commitment to authenticity.
-"
-GRANT WOOD ON AMERICAN GOTHIC
+
 
 The painting’s popularity has also translated into commercial use, with companies leveraging its iconic imagery to connect their products with the ideals of Americana. A notable example appears in a 1972 Billboard music publication, where the figures from *American Gothic* are reimagined with headphones, presumably listening to music. Additionally, the image has been adopted by the [Chicano art movement](https://en.wikipedia.org/wiki/Chicano_art_movement), where it has been reinterpreted by Mexican-American artists to reflect their unique cultural identity.  The subjects of this work are wearing somberos and traditional Mexican garb.This adaptation is significant because it demonstrates how *American Gothic* transcended its original context, evolving into a broader symbol that fuses American and Mexican-American cultural influences with the idea of what represents America. This also expresses the Mexican -American's artist desire to create their own identity in American culture.
 
@@ -62,12 +61,11 @@ The painting’s popularity has also translated into commercial use, with compan
 Beyond its initial impact, *American Gothic* has transcended its original context, evolving into a cultural phenomenon that continues to shape and reflect American identity. Its numerous parodies, commercial uses, and reinventions demonstrate its flexibility and continued relevance. American Gothic not only continues to represent the spirit of the American Midwest but also speaks to the broader, evolving notion of what it means to be American, it remains a vital piece of Americana, symbolizing both the past and the ongoing dialogue about American identity.
 
 
-[^1]: "Grant Wood," The Art Story: Modern Art Insight, accessed December 9, 2024, https://www.theartstory.org/artist/wood-grant/.
-[^2]: "Grant Wood," The Art Story: Modern Art Insight, accessed December 9, 2024, https://www.theartstory.org/artist/wood-grant/.
-[^3]: Steiner, Michael C. "Grant Wood and the Politics of Regionalism." Middle West Review, vol. 3 no. 1, 2016, p. 71-95. Project MUSE, https://dx.doi.org/10.1353/mwr.2016.0015.
-[^4]: "Hans Memling," The Art Story: Modern Art Insight, accessed December 9, 2024, https://www.theartstory.org/artist/memling-hans/.
-[^5]: Encyclopaedia Britannica. "Carpenter Gothic." Last modified October 10, 2023. https://www.britannica.com/art/Carpenter-Gothic.
-[^6]: Federal Reserve History. "The Great Depression: 1929–1941." Accessed December 9, 2024. https://www.federalreservehistory.org/essays/great-depression#:~:text=1929–1941,World%20War%20II%20in%201941.
-[^7]: The Art Institute of Chicago. *American Gothic.*Accessed December 9, 2024. https://www.artic.edu/artworks/6565/american-gothic.
-[^8]: Corn, Wanda M. Birth of a National Icon: Grant Wood's American Gothic. New Haven and London: Yale University Press, 1999.
-
+[^1]:"Grant Wood," The Art Story: Modern Art Insight, accessed December 9, 2024, (https://www.theartstory.org/artist/wood-grant/).
+[^2]: "Grant Wood," The Art Story: Modern Art Insight, accessed December 9, 2024, (https://www.theartstory.org/artist/wood-grant/).
+[^3]: Steiner, Michael C. "Grant Wood and the Politics of Regionalism." Middle West Review, vol. 3 no. 1, 2016, p. 71-95. Project MUSE, (https://dx.doi.org/10.1353/mwr.2016.0015).
+[^4]: "Hans Memling," The Art Story: Modern Art Insight, accessed December 9, 2024, (https://www.theartstory.org/artist/memling-hans/).
+[^5]: Encyclopaedia Britannica. "Carpenter Gothic." Last modified October 10, 2023. (https://www.britannica.com/art/Carpenter-Gothic).
+[^6]: Federal Reserve History. "The Great Depression: 1929–1941." Accessed December 9, 2024. (https://www.federalreservehistory.org/essays/great-depression#:~:text=1929–1941,World%20War%20II%20in%201941).
+[^7]: The Art Institute of Chicago. *American Gothic.*Accessed December 9, 2024. (https://www.artic.edu/artworks/6565/american-gothic).
+[^8]: Corn, Wanda M. Birth of a National Icon: Grant Wood's American Gothic. (New Haven and London: Yale University Press, 1999).
